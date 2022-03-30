@@ -1,0 +1,3 @@
+EmployeePayrollData [ID=1, Name=Stark, Salary=500000.0, Start=null]
+EmployeePayrollData [ID=2, Name=Parker, Salary=200000.0, Start=null]
+EmployeePayrollData [ID=3, Name=Hogan, Salary=300000.0, Start=null]
